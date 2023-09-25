@@ -7,4 +7,4 @@ Adding feature B
 
 Adding feature C
 
-Feature-d
+Feature-d - correction
